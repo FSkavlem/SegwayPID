@@ -14,5 +14,11 @@ https://play.google.com/store/apps/details?id=uncia.robotics.joystick&hl=en&gl=U
 
 ## Final build
 ![finalversjon](https://user-images.githubusercontent.com/102175435/160910292-77d91f13-3ec4-4ca5-b855-1a043e2762b9.jpg)
+
+
+https://user-images.githubusercontent.com/102175435/160918534-30d19638-7c4f-4b19-b446-9cf1af37c42b.mp4
+
+
+
 ## Wire schematic
 ![EL build](https://user-images.githubusercontent.com/102175435/160910330-2d03c0a2-bec7-409e-8490-9ffeafb73311.jpg)
