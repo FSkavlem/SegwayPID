@@ -79,7 +79,7 @@ void loop(){
 
   if (!abortBool) engineSet(motorPower, xSteering);
   
-  //logging
+  //logging active these for either bluetoothOutput or Serial
   //BluetoothOutput();
   //MakeSerialPlotterString();
   newton = power2newton(motorPower);        
