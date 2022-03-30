@@ -1,4 +1,4 @@
-# SegwayPID
+# Segway PID regulated
 Arduino Segway, PID regulated with antiwindup for motor and filtered derivative.<br/>
 ### PID
 PID library contains 3 different PID's, they are selected by using the different constructors<br/>
@@ -14,5 +14,5 @@ https://play.google.com/store/apps/details?id=uncia.robotics.joystick&hl=en&gl=U
 
 ## Final build
 ![finalversjon](https://user-images.githubusercontent.com/102175435/160910292-77d91f13-3ec4-4ca5-b855-1a043e2762b9.jpg)
-## Wireschematic
+## Wire schematic
 ![EL build](https://user-images.githubusercontent.com/102175435/160910330-2d03c0a2-bec7-409e-8490-9ffeafb73311.jpg)
