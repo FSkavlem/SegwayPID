@@ -1,4 +1,4 @@
-# Arduino Segway PID regulated
+# Arduino Segway PID regulated, Self-stabilization.
 Arduino Segway, PID regulated with antiwindup for motor and filtered derivative.<br/>
 ### PID
 PID library contains 3 different PID's, they are selected by using the different constructors<br/>
